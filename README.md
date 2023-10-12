@@ -1,1 +1,1 @@
-# test-hub
+print("test")
